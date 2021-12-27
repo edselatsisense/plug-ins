@@ -1,0 +1,12 @@
+{
+    "name": "DynamicWidgetScripts",
+    "source": [
+        "config.js",
+        "changescripts_allwidgets.6.js"
+    ],
+    "lastUpdate": "2021-12-14",
+    "folderName": "DynamicWidgetScripts",
+    "isEnabled": true,
+    "version": "1.0.0",
+    "pluginInfraVersion": 2
+}
